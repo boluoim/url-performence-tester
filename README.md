@@ -45,10 +45,10 @@ A Cloudflare Worker service that measures URL performance metrics including tota
 pnpm install
 
 # Run the development server
-pnpm dev
+pnpm run dev
 
 # Deploy the service
-pnpm deploy
+pnpm run deploy
 ```
 
 ## Environment Setup
